@@ -1,15 +1,20 @@
 # Frontend Engineer Assignment - STEELEYE
 
-### React Component Code Review
-
 ## This Readme File Contain All the explanation about the given 3 Matrics 
 
 ## Task 1: 
-- Explain what the simple List component does. Url <a href="#">Task 1 README.md</a> 
+- Explain what the simple List component does. Url <a href="https://github.com/Ritikraj73/Ritik-Raj_Frontend-Developer_React.Js/blob/master/explanationOfList.md">Task 1 README.md</a> 
 
 ## Task 2: 
-- What problems / warnings are there with code? <a href="#">Task 2 README.md</a> 
+- What problems / warnings are there with code? <a href="https://github.com/Ritikraj73/Ritik-Raj_Frontend-Developer_React.Js/blob/master/CodeWarning.md">Task 2 README.md</a> 
 
 ## Task 3:
-- Please fix, optimize, and/or modify the component as much as you think is necessary. <a href="#">Task 3 README.md</a> 
-- Link of the improved version of the code <a href="#">Improved Version - Click Here</a>
+- Link of the Optimized version of the code <a href="https://github.com/Ritikraj73/Ritik-Raj_Frontend-Developer_React.Js/blob/master/Codes/Optimized.js">Optimized.js - Click Here</a>
+
+
+
+<img src="" width="100%" />
+
+<br>
+![](https://komarev.com/ghpvc/?username=Ritikraj73&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
+
