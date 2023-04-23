@@ -8,6 +8,7 @@
 
 - Overall, the List component provides a simple way to display a list of items with an option to select an item from the list.
 
+
 ### summary of the React List component in bullet points:
 
 - The List component displays a list of items with the option to select an item.
